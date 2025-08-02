@@ -14,9 +14,7 @@
 
 ## Resultado Final:
 
-<video width="640">
-    <source src="video/Resultado.mp4" type="video/mp4">
-</video>
+![Gif Resultado](video/Resultado.gif)
 
 ## Considerações:
 <p>Tive certa dificuldade em entender como eu iria fazer a organização. mesmo tendo uma base visual foi um pouco complicado vizualizar como ficaria no codigo</p>
