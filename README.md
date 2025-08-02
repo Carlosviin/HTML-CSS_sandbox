@@ -5,3 +5,8 @@
 
 ## Objetivo
 <p>A proposta é criar soluções simples e eficazes para problemas cotidianos de desenvolvimento web, explorando desde layouts básicos até estruturas mais avançadas com foco na usabilidade e boas práticas de codificação.</p>
+
+## Como iria funcionar?
+
+<p>Os desafios teram refencias, considerações finais e o resultado.</p>
+<p>Muitos Desafios teram a imagem referencia, realmente como uma base, com o resultado não sendo identico. Podendo ter alteração de cores, imagens, funcionalidades, etc..</p>
